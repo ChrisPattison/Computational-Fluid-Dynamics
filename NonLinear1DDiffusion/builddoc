@@ -1,0 +1,1 @@
+pdflatex diffusion.tex;rm diffusion.{aux,log}

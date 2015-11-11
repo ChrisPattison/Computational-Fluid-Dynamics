@@ -1,0 +1,11 @@
+ Gauss-Jordan done.
+ Gauss-Jordan took (seconds):   2.84590000000000000016E-0002
+ =============================================
+ Multigrid done with iterations:        1250
+ MultiGrid took (seconds):   3.70380000000000000066E-0002
+ =============================================
+ Gauss-Siedel done with iterations:      215250
+ Gauss-Siedel took (seconds):   5.11722299999999999994      
+ =============================================
+ Optimized Gauss-Siedel done with iterations:      215250
+ Optimized Gauss-Siedel took (seconds):   4.00982799999999999993      
